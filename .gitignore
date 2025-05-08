@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# Code Composer Studio
+.jxbrowser-data/
+.jxbrowser.userdata/
+.metadata/
+RemoteSystemsTempFiles/
